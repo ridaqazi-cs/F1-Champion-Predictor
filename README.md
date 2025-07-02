@@ -70,10 +70,10 @@ Predict which driver will become the Formula 1 World Champion next season by le
 
 | Model               | Accuracy | F1 Score |
 |---------------------|----------|----------|
-| Logistic Regression | 0.XXX    | 0.XXX    |
-| Random Forest       | 0.XXX    | 0.XXX    |
-| Naive Bayes         | 0.XXX    | 0.XXX    |
-| KNN                 | 0.XXX    | 0.XXX    |
+| Logistic Regression | 1.000    | 1.000    |
+| Random Forest       | 1.000    | 1.000    |
+| Naive Bayes         | 1.000    | 1.000    |
+| KNN                 | 0.429    | 0.551    |
 
 ### 10. Final Model & 2025 Prediction
 
